@@ -7,7 +7,7 @@
 #
 Name     : pypi-doxyqml
 Version  : 0.5.3
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/76/00/fd11c79c61bebccb1303bc294785ade663508bc8bc5769afc943acf181b7/doxyqml-0.5.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/76/00/fd11c79c61bebccb1303bc294785ade663508bc8bc5769afc943acf181b7/doxyqml-0.5.3.tar.gz
 Summary  : Doxygen input filter for QML files
